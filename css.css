@@ -1,0 +1,15 @@
+.bold
+{
+    font-weight: bold;
+}
+
+.underline
+{
+    text-decoration: underline;
+}
+
+H1
+{
+    font-weight: bold;
+    font-size: 24px;
+}
